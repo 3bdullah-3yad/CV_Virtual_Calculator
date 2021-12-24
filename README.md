@@ -1,4 +1,4 @@
-# @@@@@@@@@@@@@@Ayad@@@@@@@@@@@@@@
+# @@@@@@@@@Ayad@@@@@@@@@
 
 ### CV_Virtual_Calculator
 
@@ -17,4 +17,4 @@ and click on the 'd' button on your keyboard,
 you'll remove the last thing you write.
 Thank you.
 
-# @@@@@@@@@@@@@@Ayad@@@@@@@@@@@@@@
+# @@@@@@@@@Ayad@@@@@@@@@
