@@ -1,6 +1,6 @@
 # @@@@@@@@@Ayad@@@@@@@@@
 
-### CV_Virtual_Calculator
+### Virtual_Calculator
 
 Hi there.
 This project was done using openCv and cvzone libraries.
